@@ -1,0 +1,4 @@
+1)open command prompt
+2)type [cd C:\] where it is don't forget the space [run/press enter]
+3)then type [ren "*.*","*.x"] x=what file type you want [run/press enter]
+4)then type [dir]and[run/press enter]
